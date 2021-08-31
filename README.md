@@ -1,5 +1,5 @@
 # finder
-git clone https://github.com/ah834ah834/finder
+git clone https://github.com/ah834ah834/find_admin_page
 
 cd finder-main
 
